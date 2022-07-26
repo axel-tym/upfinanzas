@@ -6,6 +6,4 @@ Con esta aplicación web puse en práctica los conocimientos aprendidos en el cu
 
 Además se hace la aclaración que la base de datos funciona correctamente de manera local, no estando conectada a Heroku.
 
-Atte.
-
 Axel Tymkiw*
